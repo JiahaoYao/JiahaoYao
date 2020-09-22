@@ -1,7 +1,5 @@
 ### <img src="https://github.com/abhishekapk/abhishekapk/blob/master/Assests/Hi.gif" width="29px">  Hi there!
-![visitors](https://komarev.com/ghpvc/?username=JiahaoYao)
-
-[![Website](https://img.shields.io/website?label=math.berkeley.edu/~jiahao&style=for-the-badge&url=https://math.berkeley.edu/~jiahao)](https://math.berkeley.edu/~jiahao) [![Gmail Badge](https://img.shields.io/badge/-jiahaoyao.math@gmail.com-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:jiahaoyao.math@gmail.com)](mailto:jiahaoyao.math@gmail.com)
+![visitors](https://komarev.com/ghpvc/?username=JiahaoYao) [![Website](https://img.shields.io/website?label=Homepage&style=flat-square&url=https://math.berkeley.edu/~jiahao)](https://math.berkeley.edu/~jiahao) [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jiahaoyao.math@gmail.com)](mailto:jiahaoyao.math@gmail.com)
 
 
 <details>
