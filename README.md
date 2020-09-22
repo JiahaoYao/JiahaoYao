@@ -1,5 +1,9 @@
 ### <img src="https://github.com/abhishekapk/abhishekapk/blob/master/Assests/Hi.gif" width="29px">  Hi there!
+![visitors](https://komarev.com/ghpvc/?username=JiahaoYao)
+
 [![JiahaoYao's github stats](https://github-readme-stats.vercel.app/api?username=JiahaoYao&show_icons=true)](https://github.com/JiahaoYao/)
+
+
 
 - 💬 Ask me about building algorithms for scientific computing & machine learning.
 - 🤝 Know me better [here](https://jiahaoyao.github.io/).
