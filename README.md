@@ -1,10 +1,14 @@
-### Hi there 👋
+### <img src="https://github.com/abhishekapk/abhishekapk/blob/master/Assests/Hi.gif" width="29px">  Hi there!
 [![JiahaoYao's github stats](https://github-readme-stats.vercel.app/api?username=JiahaoYao&show_icons=true)](https://github.com/JiahaoYao/)
 
 - 💬 Ask me about building algorithms for scientific computing & machine learning.
 - 🤝 Know me better [here](https://jiahaoyao.github.io/).
 
 
+
+<a href="https://github.com/JiahaoYao/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JiahaoYao&layout=compact" />
+</a>
 
 <!--
 **JiahaoYao/JiahaoYao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
