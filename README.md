@@ -25,8 +25,9 @@
 
 
 <a href="https://github.com/JiahaoYao/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JiahaoYao&layout=compact" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=JiahaoYao&show_icons=true" />
 </a>
+
 
 <!--
 **JiahaoYao/JiahaoYao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
